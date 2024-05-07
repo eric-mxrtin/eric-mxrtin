@@ -1,21 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
-<h3 align="center">A passionate frontend developer from Mississauga</h3>
+<h3 align="center">I am currently seeking a Fall 2024 internship</h3>
 
-- 🔭 I’m currently working on [XYZ](https://github.com/eric-mxrtin)
+- 🔭 I’m currently working on [my personal website](https://github.com/eric-mxrtin)
 
-- 🌱 I’m currently learning **XYZ**
+- 🌱 I’m currently learning about Data Structures and Algorithms.
 
-- 👯 I’m looking to collaborate on [XYZ](https://github.com/eric-mxrtin)
-
-- 🤝 I’m looking for help with [XYZ](https://github.com/eric-mxrtin)
-
-- 👨‍💻 All of my projects are available at [https://github.com/eric-mxrtin](https://github.com/eric-mxrtin)
-
-- 📝 I regularly write articles on [https://github.com/eric-mxrtin](https://github.com/eric-mxrtin)
-
-- 💬 Ask me about **XYZ**
-
-- 📫 How to reach me **e24marti@uwaterloo.ca**
+- 📫 Reach me at: **e24marti@uwaterloo.ca**
 
 - 📄 Know about my experiences [https://github.com/eric-mxrtin](https://github.com/eric-mxrtin)
 
