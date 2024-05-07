@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">I am currently seeking a Fall 2024 internship</h3>
-
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 - 🔭 I’m currently working on [my personal website](https://github.com/eric-mxrtin)
 
 - 🌱 I’m currently learning about Data Structures and Algorithms.
@@ -12,7 +12,6 @@
 - ⚡ Fun fact **I like ramen.**
 
 <h3 align="left">Connect with me:</h3>
-<img style="height: 100px; display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <p align="left">
 </p>
 
