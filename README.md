@@ -1,7 +1,7 @@
 # 💫 About Me: <br>
 💼 Seeking Summer 2025 internships<br>
 💜 UWaterloo Systems Design Engineering Student <br>
-🎸 Huge fan of alt/indie/pop rock bands
+🎸 Huge fan of Alt/Indie/Pop Rock bands
 
 
 # 💻 Tech Stack:
