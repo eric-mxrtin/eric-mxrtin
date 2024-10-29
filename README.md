@@ -1,4 +1,5 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZvZ2hoMG40ZWpkaWd2MWVkM3U5OXQ2MGpnbzBsMXc4NmFxaGZvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.gif" width="full" height="full" alt="greetings"/>
+
 # 👉 About Me: <br>
 💼 Seeking Summer 2025 Tech internships<br>
 💜 UWaterloo Systems Design Engineering Student <br>
