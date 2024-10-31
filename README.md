@@ -5,10 +5,11 @@
 <h2> 👉 About Me: </h2>
 <br/>
 <div align="center">  
-  <p>💼 I'm seeking 2025 SWE internships!</p>
-  <p>🤖 I'm currently working on side projects & my personal website.</p>
-  <p>🫀 I am passionate about consumer technology and tech for social good.</p>
+  <h4>💼 I'm seeking 2025 SWE internships!</h4>
+  <h4>🤖 I'm currently working on side projects & my personal website.</h4>
+  <h4>🫀 I am passionate about consumer technology and tech for social good.</h4>
   <div>
+    <br/>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/eric-mxrtin"/>
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"/>
   </div>
