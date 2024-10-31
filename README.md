@@ -10,8 +10,8 @@
   <h4>🫀 I am passionate about consumer technology and tech for social good.</h4>
   <div>
     <br/>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/eric-mxrtin"/>
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"/>
+    <a href="https://www.linkedin.com/in/eric-mxrtin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="http://ericm.ca/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   </div>
 </div>
 
