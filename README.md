@@ -2,8 +2,7 @@
   <img width="600" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZvZ2hoMG40ZWpkaWd2MWVkM3U5OXQ2MGpnbzBsMXc4NmFxaGZvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.gif" alt="👋 Hey, My Name's Eric" title="👋 Hey, My Name's Eric"/>
 </p>
 
-<h2> 👉 About Me: </h2>
-<br/>
+<h2 align="center"> 👉 About Me: </h2>
 <div align="center">  
   <h4>💼 I'm seeking 2025 SWE internships!</h4>
   <h4>🤖 I'm currently working on side projects & my personal website.</h4>
@@ -15,8 +14,7 @@
   </div>
 </div>
 
-<h2>💻 Tech Stack</h2>
-<br/>
+<h2 align="center">💻 Tech Stack</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
