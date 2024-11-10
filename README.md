@@ -1,16 +1,16 @@
 <p align="center">
-  <img width="600" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZvZ2hoMG40ZWpkaWd2MWVkM3U5OXQ2MGpnbzBsMXc4NmFxaGZvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.gif" alt="👋 Hey, My Name's Eric" title="👋 Hey, My Name's Eric"/>
+  <img width="600" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZvZ2hoMG40ZWpkaWd2MWVkM3U5OXQ2MGpnbzBsMXc4NmFxaGZvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0Apr6Al/giphy.gif" alt="👋 Hey, My Name's Eric" title="👋 Hey, My Name's Eric"/>
 </p>
 
 <h2 align="center"> 👉 About Me: </h2>
 <div align="center">  
-  <h4>💼 I'm seeking 2025 SWE internships!</h4>
-  <h4>🤖 I'm currently working on side projects & my personal website.</h4>
-  <h4>🫀 I am passionate about consumer technology and tech for social good.</h4>
+  <p>💼 I'm seeking 2025 SWE internships!</p>
+  <p>🤖 I'm currently working on side projects & my personal website.</p>
+  <p>🫀 I am passionate about consumer technology and tech for social good.</p>
   <div>
     <br/>
     <a href="https://www.linkedin.com/in/eric-mxrtin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!--     <a href="http://ericm.ca/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a> -->
+    <a href="http://ericm.ca/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   </div>
 </div>
 
