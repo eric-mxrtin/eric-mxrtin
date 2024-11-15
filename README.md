@@ -1,27 +1,14 @@
-<p align="center">
-  <img width="600" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhhd243OW82cWx1dDlyenl4bnJwZ3d3ZTgwaGVzd3BxcmpyejlrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.gif" alt="👋 Hey, My Name's Eric" title="👋 Hey, My Name's Eric"/>
+# Hey there 👋
+
+I'm a full-stack developer passionate about consumer and medical technology.
+
+I am also seeking summer 2025 internships!
+
+<p>
+  <a href="http://ericm.ca/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&amp;logo=Nextdotjs&amp;logoColor=white&amp;link=http://ericm.ca/"alt="http://ericm.ca/">
+  </a>
+  <a href="https://www.linkedin.com/in/eric-mxrtin" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/eric-mxrtin"alt="https://www.linkedin.com/in/eric-mxrtin">
+  </a>
 </p>
-
-<h2 align="center"> 👉 About Me: </h2>
-<div align="center">  
-  <p>💼 I'm seeking 2025 SWE internships!</p>
-  <p>🤖 I'm currently working on side projects & my personal website.</p>
-  <p>🫀 I am passionate about consumer technology and tech for social good.</p>
-  <div>
-    <br/>
-    <a href="https://www.linkedin.com/in/eric-mxrtin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="http://ericm.ca/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  </div>
-</div>
-
-<h2 align="center">💻 Tech Stack</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</div>
