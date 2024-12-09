@@ -1,8 +1,8 @@
-# Hey there 🙉
+# hey there! 🙉
 
-I'm a full-stack developer passionate about consumer and medical technology.
+i'm a full-stack developer passionate about consumer and medical technology.
 
-I am also seeking summer 2025 internships!
+i'm also seeking summer 2025 internships!
 
 <p>
   <a href="http://ericm.ca/" style="text-decoration:none;">
