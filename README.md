@@ -1,6 +1,6 @@
 # hey there! 🙉
 
-i'm a full-stack developer passionate about consumer and medical technology.
+i'm a full-stack developer studying systems design engineering @ uwaterloo. 
 
 i'm also seeking summer 2025 internships!
 
